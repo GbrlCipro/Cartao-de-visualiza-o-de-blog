@@ -14,8 +14,8 @@ As capturas de tela do resultado podem ser acessadas na pasta 'screenshots' dent
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/carto-de-blog-responsivo-com-elementos-dinmicos-HeA7v-eU6J)
+- Live Site URL: [Add live site URL here](https://gbrlcipro.github.io/Cartao-de-visualiza-o-de-blog/)
 
 ## Meu processo
 
